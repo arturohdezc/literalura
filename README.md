@@ -92,22 +92,27 @@ Asegúrate de incluirlas en el archivo `pom.xml`.
 
 - **Almacenar libros seleccionados:**
   Los datos de libros obtenidos desde la API de Gutendex se guardan en una base de datos PostgreSQL.
+  
   [![Almacenamiento de Libros](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1svm_F9eaUIlpye1da3CwOg5A3aiMkhdP/view?usp=share_link)
 
 - **Mostrar todos los libros almacenados:**
   Endpoint que devuelve una lista de todos los libros registrados en la base de datos.
+  
   [![Mostrar Libros Almacenados](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1Xkfa7qvyUGVi1W3oSuHUinclB3nr-gor/view?usp=share_link)
 
 - **Consultar libros por autor:**
   Permite filtrar los libros almacenados según el nombre del autor.
+  
  [ ![Mostrar Libros por Autor](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1f_iTCh1X9lfDkJaN_oKQpm04ECWEuJWx/view?usp=share_link)
 
 - **Mostrar libros por idioma:**
   Realiza una búsqueda basada en el idioma de los libros almacenados.
+  
  [ ![Mostrar Libros por idioma](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1Bi1qpAHAttdVFEFmAE_jmYrzmQ2v5E8o/view?usp=share_link)
 
 - **Consultar libros según autores vivos en una fecha:**
   Dada una fecha, se muestran los libros cuyos autores estaban vivos en ese momento.
+  
   [![Autores vivos en un periodo](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1Bi1qpAHAttdVFEFmAE_jmYrzmQ2v5E8o/view?usp=share_link)
 
 ## Estado del Proyecto

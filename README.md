@@ -47,7 +47,7 @@ Estas variables permiten la conexión con la base de datos PostgreSQL y configur
 
 1. Clonar el repositorio desde GitHub:
    ```bash
-   git clone <[URL del repositorio](https://github.com/arturohdezc/literalura.git)>
+   git clone https://github.com/arturohdezc/literalura.git
    cd literalura
    ```
 2. Configurar las variables de entorno en tu sistema operativo o en un archivo `.env`.

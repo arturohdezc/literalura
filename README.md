@@ -1,7 +1,7 @@
 # LiterAlura
 
 
-![Portada del Proyecto](https://www.sydle.com/blog/assets/post/biblioteca-digital-63e521409e3c274f1050e336/capa%20biblioteca%20digital.png) 
+![Portada del Proyecto](https://drive.google.com/uc?id=1Ygt6nmmfg4otGSPRHZiIOef4YJtGNAu7)
 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/literalura)
